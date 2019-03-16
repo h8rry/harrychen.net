@@ -204,6 +204,7 @@
 }
 
 .post-link {
+  // font-family: bt_mono_bold,Lora,Georgia,Cambria,"Times New Roman",Times,serif;
   display: block;
   @include relative-font-size(1.5);
 }
@@ -218,6 +219,8 @@
 }
 
 .post-title {
+  font-family: Lora,Georgia,Cambria,"Times New Roman",Times,serif;
+
   @include relative-font-size(2.625);
   letter-spacing: -1px;
   line-height: 1;
@@ -228,7 +231,18 @@
 }
 
 .post-content {
-  margin-bottom: $spacing-unit;
+  font-family: Lora,Georgia,Cambria,"Times New Roman",Times,serif;
+
+  p {
+    font-weight: 400;
+    font-size: 20px;
+    letter-space: -0.16px;
+    line-height: 33.9px;
+    text-rendering: optimizeLegibility;
+    margin-block-end: 29px !important;
+    margin-bottom: 29px !important;
+    // margin-bottom: $spacing-unit;
+  }
 
   h2 {
     @include relative-font-size(2);
