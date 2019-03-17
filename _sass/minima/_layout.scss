@@ -232,7 +232,6 @@
 
 .post-content {
   font-family: Lora,Georgia,Cambria,"Times New Roman",Times,serif;
-
   p {
     font-weight: 400;
     font-size: 20px;
@@ -241,7 +240,11 @@
     text-rendering: optimizeLegibility;
     margin-block-end: 29px !important;
     margin-bottom: 29px !important;
-    // margin-bottom: $spacing-unit;
+
+    @include media-query($on-palm) {
+      @include relative-font-size(1.15);
+      line-height: 27px;
+    }
   }
 
   h2 {
