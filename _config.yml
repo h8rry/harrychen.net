@@ -20,6 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "h8rry.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: harrychen
 github_username:  h8rry
+footer: harry chen © 2019
 
 # GA
 google_analytics: UA-66106045-2
