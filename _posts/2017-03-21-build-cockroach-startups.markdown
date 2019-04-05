@@ -2,7 +2,7 @@
 layout: post
 title:  "How to build a Cockroach Startup (instead of a Unicorn)"
 date:   2017-03-21 00:00:00 +0800
-categories: blog
+permalink: /:title
 ---
 Startup is a buzz word. A startup is a business that just got started and has not achieved sustainable profit. A startup is by default a failing business until you make it profitable.
 
