@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to build a cockroach startup (instead of a unicorn)"
+title:  "how to build a cockroach startup"
 date:   2017-03-21 00:00:00 +0800
 permalink: /:title
 ---
