@@ -10,19 +10,18 @@ permalink: /
 ## co-founded
 
 - [Altcademy](https://www.altcademy.com): 100% online coding bootcamp
-- [Nvest](http://nvest.me): social network for stock recommendations
+- Nvest: social network for stock recommendations
 
 ## worked at
 
-- General Assembly
 - Microsoft
+- General Assembly
 - Bombardier Aerospace
 
 ## uses
 
-- Rails
-- React
-- Python (for ML)
+- Rails & React
+- Python
 
 ## studies
 
