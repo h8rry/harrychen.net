@@ -25,5 +25,5 @@ permalink: /
 
 ## studies
 
-- Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs) (ongoing)
+- Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs) (60% done)
 - Bachelor: Mechanical Engineering @ [UofT](https://www.mie.utoronto.ca/) (2014)
