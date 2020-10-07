@@ -9,8 +9,8 @@ permalink: /
 
 ## co-founded
 
-- [FulfillKit](https://fulfillKit.com): experimental email marketing
 - [Altcademy](https://www.altcademy.com): 100% online coding bootcamp
+- [FulFillKit](https://fulfillKit.com): scientific email marketing
 - Nvest: social network for stock recommendations
 
 ## worked at
@@ -21,10 +21,11 @@ permalink: /
 
 ## uses
 
-- Rails & React
+- Rails
+- React
 - Python
 
 ## studies
 
-- Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs) (60% done)
+- Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs) (ETA done in 2021)
 - Bachelor: Mechanical Engineering @ [UofT](https://www.mie.utoronto.ca/)

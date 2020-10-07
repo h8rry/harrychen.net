@@ -7,9 +7,7 @@ title: bookshelf
 permalink: /bookshelf
 ---
 
-## must read
-
-### #product & #marketing
+## # product & marketing
 
 - **Predictably Irrational** [[book depository](https://www.bookdepository.com/Predictably-Irrational-Revised-Dr-Dan-Ariely/9780062018205)]
   - understand the thought process and rationale (and irrationale) of a customer when making a purchase
@@ -19,7 +17,7 @@ permalink: /bookshelf
 - **The Design of Everyday Things** [[book depository](https://www.bookdepository.com/Design-Everyday-Things-Donald-Norman/9780465050659)]
   - this book defines "what is a product" and "what is a design"
 
-### #investments_management
+## # investments management
 
 - **The Intelligent Investor** [[book depository](https://www.bookdepository.com/Intelligent-Investor-Benjamin-Graham/9780060555665)]
 - **Common Stocks As Long Term Investments** [[book depository](https://www.bookdepository.com/Common-Stocks-Long-Term-Investments-Edgar-Lawrence-Smith/9781614273325)]
