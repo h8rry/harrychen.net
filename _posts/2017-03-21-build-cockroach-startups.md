@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "how to build a cockroach startup"
+title:  How to build a cockroach startup
 date:   2017-03-21 00:00:00 +0800
-permalink: /:title
+permalink: /essays/:title
+category: essays
 ---
+
 Startup is a buzz word. A startup is a business that just got started and has not achieved sustainable profit. A startup is by default a failing business until you make it profitable.
 
 A unicorn startup is one that has been valued at more than 1 billion dollars by investors. A unicorn startup doesn’t have to make money. A unicorn startup doesn’t have to show healthy business fundamentals. A unicorn startup only needs growth and to be priced by investors.

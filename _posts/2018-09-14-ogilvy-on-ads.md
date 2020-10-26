@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "ogilvy on advertising"
+title:  Ogilvy on advertising
 date:   2018-09-14 00:00:00 +0800
-permalink: /:title
+permalink: /notes/:title
+category: notes
 ---
 
 strategy
