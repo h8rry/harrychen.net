@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Common stocks as long term investments
+title:  "Notes: Common stocks as long term investments"
 date:   2020-04-23 00:00:00 +0800
 permalink: /notes/:title
 category: notes
@@ -44,3 +44,5 @@ Principal functions of Investment Management:
 7. It will retain diversification as its fundamental principle, but will establish reasonable limitations to diversification in order not to dilute the quality of management applied
 
 
+
+[Book Depository](https://www.bookdepository.com/Common-Stocks-Long-Term-Investments-Edgar-Lawrence-Smith/9781614273325)

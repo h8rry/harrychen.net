@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Ogilvy on advertising
+title:  "Notes: Ogilvy on advertising"
 date:   2018-09-14 00:00:00 +0800
 permalink: /notes/:title
 category: notes
@@ -78,3 +78,5 @@ style
 - serifs > san-serifs
 - faces: century family, caslon, baskerville, jenson
 - "the eye is a creature of habit"
+
+[Book Depository](https://www.bookdepository.com/Ogilvy-on-Advertising-David-Ogilvy/9781853756153)
