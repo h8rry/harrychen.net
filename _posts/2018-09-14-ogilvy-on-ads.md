@@ -14,7 +14,7 @@ strategy
 - you need big ideas that can last for a decade: "Merrill Lynch is bullish on america"
 - it pays to give most products an image of quality: a first class ticket
 - if you and your competitors all make excellent products, don't try to imply that your product is better. just say what's good about your product: do a cleaner, more honest, more informative job of saying it
-- people are most interested in what is happening where they live ("how NYC people like coding!")
+- people are most interested in what is happening where they live ("how SF people like coding!")
 - "if it doesn't sell, it's not creative"
 - advertise to the kind of customers you want
 - "any fool can write a bad advertisement, but it takes a genius to keep his hands off a good one"
@@ -78,5 +78,3 @@ style
 - serifs > san-serifs
 - faces: century family, caslon, baskerville, jenson
 - "the eye is a creature of habit"
-
-[Book Depository](https://www.bookdepository.com/Ogilvy-on-Advertising-David-Ogilvy/9781853756153)

@@ -10,12 +10,12 @@ permalink: /bookshelf
 ## Bookshelf
 
 - **Predictably Irrational**[*](https://www.bookdepository.com/Predictably-Irrational-Revised-Dr-Dan-Ariely/9780062018205)
-  - understand the thought process and rationale (and irrationale) of a customer when making a purchase
-  - a perfect read for someone who's often math driven, an enginner, or a coder
+  - thought process and rationale (and irrationale) of a customer when making a purchase
+  - a perfect read for someone who's often math-oriented
 - **Ogilvy on Advertising**[*](https://www.bookdepository.com/Ogilvy-on-Advertising-David-Ogilvy/9781853756153) [[notes](/notes/ogilvy-on-ads)] 
-  - learn about the fundamental elements of good advertisements, backed up by decades of good and bad examples
+  - fundamental elements of good advertisements, backed up by good and bad examples
 - **The Design of Everyday Things**[*](https://www.bookdepository.com/Design-Everyday-Things-Donald-Norman/9780465050659)
-  - this book defines "what is a product" and "what is a design"
+  - defines "what is a product" and "what is a design"
 - **The Intelligent Investor**[*](https://www.bookdepository.com/Intelligent-Investor-Benjamin-Graham/9780060555665)
 - **Common Stocks As Long Term Investments**[*](https://www.bookdepository.com/Common-Stocks-Long-Term-Investments-Edgar-Lawrence-Smith/9781614273325)
 - **The Innovator's Dilemma**[*](https://www.bookdepository.com/Innovators-Dilemma-Clayton-M-Christensen/9780062060242)

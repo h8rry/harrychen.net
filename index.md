@@ -10,7 +10,6 @@ permalink: /
 ## co-founded
 
 - [Altcademy](https://www.altcademy.com): 100% online coding bootcamp
-- [FulFillKit](https://fulfillKit.com): scientific email marketing
 - Nvest: social network for stock recommendations
 
 ## worked at

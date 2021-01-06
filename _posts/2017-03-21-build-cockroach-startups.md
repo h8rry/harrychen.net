@@ -119,3 +119,5 @@ Your goal should not be selling your shares to a greater fool. If your business 
 Some founders are looking for a jackpot in 5 to 7 years so that they can retire as soon as possible. Others are looking to build a company they can run for next 30 years. Figure out which founder type you are.
 
 As a cockroach founder, you are not looking for an exit. Your only strategy is to build a business that prints money perpetually.
+
+[https://medium.com/swlh/how-to-build-a-cockroach-startup-instead-of-a-unicorn](https://medium.com/swlh/how-to-build-a-cockroach-startup-instead-of-a-unicorn-4f776f068583)
