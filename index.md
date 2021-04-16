@@ -18,11 +18,11 @@ permalink: /
 - General Assembly
 - Bombardier Aerospace
 
-## uses
+## codes in
 
 - Rails
-- React
 - Python
+- React
 
 ## studies
 
