@@ -10,6 +10,8 @@ permalink: /
 ## co-founded
 
 - [Altcademy](https://www.altcademy.com): 100% online coding bootcamp
+- [BetterWriter.ai](https://betterwriter.ai): A chrome extension to help you write better
+- [Email Refinery](https://emailrefinery.com): Email marketing SaaS tool
 - Nvest: social network for stock recommendations
 
 ## worked at
