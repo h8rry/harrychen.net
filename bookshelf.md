@@ -20,3 +20,5 @@ permalink: /bookshelf
 - **Common Stocks As Long Term Investments**[*](https://www.bookdepository.com/Common-Stocks-Long-Term-Investments-Edgar-Lawrence-Smith/9781614273325)
 - **The Innovator's Dilemma**[*](https://www.bookdepository.com/Innovators-Dilemma-Clayton-M-Christensen/9780062060242)
   - explains why startups exist
+
+- Writing That Works

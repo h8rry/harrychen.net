@@ -11,14 +11,9 @@ permalink: /
 
 - [Altcademy](https://www.altcademy.com): 100% online coding bootcamp
 - [BetterWriter.ai](https://betterwriter.ai): A chrome extension to help you write better
-- [Email Refinery](https://emailrefinery.com): Email marketing SaaS tool
+- EmailRefinery: Email marketing SaaS tool
 - Nvest: social network for stock recommendations
 
-## worked at
-
-- Microsoft
-- General Assembly
-- Bombardier Aerospace
 
 ## codes in
 
@@ -26,7 +21,13 @@ permalink: /
 - Python
 - React
 
-## studies
+## worked at
 
-- Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs) (ETA done in 2021)
+- [microsoft.com](https://microsoft.com)
+- [ga.co](https://ga.co)
+- [bombardier.com](https://bombardier.com)
+
+## studied at
+
+- Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs)
 - Bachelor: Mechanical Engineering @ [UofT](https://www.mie.utoronto.ca/)

@@ -7,11 +7,15 @@ title: tools
 permalink: /tools
 ---
 
-## tools
+## tools for investments
 
-- [Startup Growth Calculator](http://growth.tlb.org) by Trevor Blackwell
 - [SP500 DCA Calculator](https://dqydj.com/scripts/spcalc/sp_500_reinvester.html) on dqydj.com
 - [Net Worth by Age Calculator](https://dqydj.com/net-worth-by-age-calculator-united-states/) on dqydj.com
-- [EMCLOUD Index](https://cloudindex.bvp.com/explore-index) by BVP
+- [M3 for USA](https://fred.stlouisfed.org/series/MABMM301USM189S) by FRED
+- [Median Sales Price of Houses Sold for USA](https://fred.stlouisfed.org/series/MSPUS) by FRED
 - [United States Unemployment Rate](https://tradingeconomics.com/united-states/unemployment-rate) by Trading Economics
-- [M2 Money Stock](https://fred.stlouisfed.org/series/M2SL#0) by FRED
+
+## tools for startups
+
+- [EMCLOUD Index](https://cloudindex.bvp.com/explore-index) by BVP
+- [Startup Growth Calculator](http://growth.tlb.org) by Trevor Blackwell
