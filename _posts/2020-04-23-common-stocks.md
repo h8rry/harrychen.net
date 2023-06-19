@@ -40,7 +40,3 @@ Principal functions of Investment Management
 5. It will then examine the management and financial structure of the leading companies in these industries
 6. It will watch for changes both in conditions of industries and of individual corporations and be prepared to change the investment to accord with sound analysis of the latest available information
 7. It will retain diversification as its fundamental principle, but will establish reasonable limitations to diversification in order not to dilute the quality of management applied
-
-Action Items
-
-- Hold equities with durable competitive advantages, forever
