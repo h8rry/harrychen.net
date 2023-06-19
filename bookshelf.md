@@ -10,19 +10,18 @@ permalink: /bookshelf
 ## Bookshelf
 
 - **Common Stocks As Long Term Investments**[*](https://www.amazon.com/Common-Stocks-Long-Term-Investments-ebook/dp/B0B9TZ8LD9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152061&sr=8-1) [[reading notes](/essays/common-stocks)]
-  - hold equities with durable competitive advantages, forever
+  - equities > debt
 - **Ogilvy on Advertising**[*](https://www.amazon.com/Ogilvy-Advertising-David-ebook/dp/B00EMXBZKA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687148627&sr=8-1) [[reading notes](/essays/ogilvy-on-ads)]
   - fundamental elements of good advertisements, backed up by good and bad examples
 - **Predictably Irrational**[*](https://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions-ebook/dp/B002C949KE/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687148577&sr=8-1)
-  - thought process and rationale (and irrationale) of a customer when making a purchase
-  - a perfect read for someone who's often logic oriented
+  - thought process and rationales (and irrationales) of a customer when making a purchase
 - **The Design of Everyday Things**[*](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152011&sr=8-1)
-  - defines "what is a product" and "what is a design"
 - **The Innovator's Dilemma**[*](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152102&sr=8-1)
-  - explains why startups exist
+  - how entrants disrupt incumbents
 - **The Intelligent Investor** by Ben Graham[*](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_2?keywords=The+Intelligent+Investor&qid=1687152046&sr=8-2)
 - **Value Investing** by Bruce Greenwald[*](https://www.amazon.com/Value-Investing-Graham-Buffett-Finance-ebook/dp/B08M5C79D9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687149048&sr=8-2)
   - how to identify durable competitive advantages and value such businesses
   - total return = cash (dividend + buyback) + growth rate (organic + active investment) - fade rate
-  - margin of safety = total return / cost of capital 
+  - margin of safety = total return / cost of capital
+  - hold equities with durable competitive advantages, forever
 - **Writing That Works**[*](https://www.amazon.com/Writing-That-Works-3rd-Communicate-ebook/dp/B0040GJDSA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152124&sr=8-1)
