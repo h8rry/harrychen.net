@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Notes: Ogilvy on advertising"
+title:  "Reading Notes: Ogilvy on advertising"
 date:   2018-09-14 00:00:00 +0800
-permalink: /notes/:title
-category: notes
+permalink: /essays/:title
+category: essays
 ---
 
 strategy
@@ -31,7 +31,8 @@ illustration
 - if you don't have a remarkable idea for it, not even a great photographer can save you
 - the kind of photographs which work hardest are those which amuse the reader's curiosity
 - it pays to illustrate the end-result of using your product (before-and-after photos increase sales; by Gallup)
-![2018-09-14 15 14 13](https://user-images.githubusercontent.com/1697380/45535457-2052b680-b831-11e8-895c-d88ffc252756.png)
+
+![2018-09-14 15 14 13](../assets/images/45535457-2052b680-b831-11e8-895c-d88ffc252756.png)
 
 
 big idea
