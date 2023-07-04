@@ -37,3 +37,9 @@ permalink: /bookshelf
 - How to Raise Successful People by Esther Wojcicki
 - Common Stocks and Uncommon Profits by Philip Fisher
 - The Box by Marc Levinson
+- How to lie with statistics by Darrell Huff
+- Founders at Work by Jessica Livingston
+- Remote by Jason Fried
+- Business Adventures by John Brooks
+- The end of power by Moises Naim**
+- Why nations fail by Daron Acemoglu**
