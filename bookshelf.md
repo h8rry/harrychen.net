@@ -19,7 +19,7 @@ permalink: /bookshelf
 - **The Innovator's Dilemma**[*](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152102&sr=8-1)
   - how entrants disrupt incumbents
 - **The Intelligent Investor** by Ben Graham[*](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_2?keywords=The+Intelligent+Investor&qid=1687152046&sr=8-2)
-- **Value Investing** by Bruce Greenwald[*](https://www.amazon.com/Value-Investing-Graham-Buffett-Finance-ebook/dp/B08M5C79D9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687149048&sr=8-2)
+- **Value Investing** by Bruce Greenwald[*](https://www.amazon.com/Value-Investing-Graham-Buffett-Finance-ebook/dp/B08M5C79D9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687149048&sr=8-2) [[reading notes](/essays/value-investing)]
   - how to identify durable competitive advantages and value such businesses
   - total return = cash (dividend + buyback) + growth rate (organic + active investment) - fade rate
   - margin of safety = total return / cost of capital
