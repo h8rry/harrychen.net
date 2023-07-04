@@ -7,7 +7,7 @@ title: bookshelf
 permalink: /bookshelf
 ---
 
-## Bookshelf
+## bookshelf
 
 - **Common Stocks As Long Term Investments**[*](https://www.amazon.com/Common-Stocks-Long-Term-Investments-ebook/dp/B0B9TZ8LD9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152061&sr=8-1) [[reading notes](/essays/common-stocks)]
   - equities > debt
@@ -25,3 +25,15 @@ permalink: /bookshelf
   - margin of safety = total return / cost of capital
   - hold equities with durable competitive advantages, forever
 - **Writing That Works**[*](https://www.amazon.com/Writing-That-Works-3rd-Communicate-ebook/dp/B0040GJDSA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152124&sr=8-1)
+- The Innovator’s Solution
+- Superforecasting
+  - You have keep forecasting and track your records. Revise and improve.
+- Unfree Speech by Joshua Wong
+- Permanent Record by Edward Snowden
+- The Mathematics of Love by Hannah Fry
+- Thinking Fast and Slow
+- Don't Feed the Monkey Mind
+- Zero to One by Peter Thiel
+- How to Raise Successful People by Esther Wojcicki
+- Common Stocks and Uncommon Profits by Philip Fisher
+- The Box by Marc Levinson
