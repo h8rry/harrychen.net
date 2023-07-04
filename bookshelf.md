@@ -18,13 +18,24 @@ permalink: /bookshelf
 - **The Design of Everyday Things**[*](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded-ebook/dp/B00E257T6C/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152011&sr=8-1)
 - **The Innovator's Dilemma**[*](https://www.amazon.com/Innovators-Dilemma-Technologies-Management-Innovation-ebook/dp/B012BLTM6I/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152102&sr=8-1)
   - how entrants disrupt incumbents
-- **The Intelligent Investor** by Ben Graham[*](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_2?keywords=The+Intelligent+Investor&qid=1687152046&sr=8-2)
+- **The Intelligent Investor** by Graham[*](https://www.amazon.com/Intelligent-Investor-Collins-Business-Essentials-ebook/dp/B000FC12C8/ref=sr_1_2?keywords=The+Intelligent+Investor&qid=1687152046&sr=8-2)
 - **Value Investing** by Bruce Greenwald[*](https://www.amazon.com/Value-Investing-Graham-Buffett-Finance-ebook/dp/B08M5C79D9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687149048&sr=8-2) [[reading notes](/essays/value-investing)]
   - how to identify durable competitive advantages and value such businesses
   - total return = cash (dividend + buyback) + growth rate (organic + active investment) - fade rate
   - margin of safety = total return / cost of capital
   - hold equities with durable competitive advantages, forever
 - **Writing That Works**[*](https://www.amazon.com/Writing-That-Works-3rd-Communicate-ebook/dp/B0040GJDSA/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1687152124&sr=8-1)
+- **Common Stocks and Uncommon Profits** by Philip Fisher
+- **How to Raise Successful People** by Esther Wojcicki
+- **Screenplay** by Syd Field
+- **On Tyranny** by Timothy Snyder
+- **The Art of Writing Advertising** by Bernbach
+- **Reality in Advertising** by Reeves
+- **Scientific Advertising** by Hopkins
+- **Customer Success<sup>+</sup>** by Nick Mehta
+- **Financial Reporting and Analysis (5th Edition)<sup>++</sup>** by Lawrence Revsine
+- **Security Analysis<sup>++</sup>** by Ben Graham
+- **Clean Code<sup>++</sup>** by Robert Martin
 - The Innovator’s Solution
 - Superforecasting
   - You have keep forecasting and track your records. Revise and improve.
@@ -34,12 +45,16 @@ permalink: /bookshelf
 - Thinking Fast and Slow
 - Don't Feed the Monkey Mind
 - Zero to One by Peter Thiel
-- How to Raise Successful People by Esther Wojcicki
-- Common Stocks and Uncommon Profits by Philip Fisher
 - The Box by Marc Levinson
 - How to lie with statistics by Darrell Huff
 - Founders at Work by Jessica Livingston
 - Remote by Jason Fried
 - Business Adventures by John Brooks
-- The end of power by Moises Naim**
-- Why nations fail by Daron Acemoglu**
+- The Mom Test by Rob Fitzpatrick
+- The End of Power<sup>+++</sup> by Naim
+- Why nations fail<sup>+++</sup> by Acemoglu
+- The Rise of Carry<sup>+++</sup> by Lee
+- Crossing the Chasm<sup>+++</sup> by Moore
+- 1984<sup>+++</sup> by Orwell
+
+\+ Reading / ++ Not started / +++ Unfinished
