@@ -32,7 +32,9 @@ permalink: /bookshelf
 - **The Art of Writing Advertising** by Bernbach
 - **Reality in Advertising** by Reeves
 - **Scientific Advertising** by Hopkins
-- **Customer Success<sup>+</sup>** by Nick Mehta
+- **Customer Success** by Nick Mehta
+- **The Little Book That Still Beats the Market** by Joel Greenblatt
+- **Tested Advertising Methods<sup>+</sup>** by John Caples
 - **Financial Reporting and Analysis (5th Edition)<sup>++</sup>** by Lawrence Revsine
 - **Security Analysis<sup>++</sup>** by Ben Graham
 - **Clean Code<sup>++</sup>** by Robert Martin
