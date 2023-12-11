@@ -35,11 +35,10 @@ permalink: /bookshelf
 - **Customer Success** by Nick Mehta
 - **The Power Law** by Sebastian Mallaby
 - **The Little Book That Still Beats the Market** by Joel Greenblatt
-- **A history of the world in 6 glasses** by Tom Standage
-- **Tested Advertising Methods<sup>+</sup>** by John Caples
+- **A History of the World in 6 Glasses** by Tom Standage
+- **Tested Advertising Methods<sup>??</sup>** by John Caples
 - **Financial Reporting and Analysis (5th Edition)<sup>++</sup>** by Lawrence Revsine
 - **Security Analysis<sup>++</sup>** by Ben Graham
-- **Clean Code<sup>++</sup>** by Robert Martin
 - The Innovator’s Solution
 - Superforecasting
   - You have keep forecasting and track your records. Revise and improve.
@@ -56,10 +55,13 @@ permalink: /bookshelf
 - Remote by Jason Fried
 - Business Adventures by John Brooks
 - The Mom Test by Rob Fitzpatrick
-- The End of Power<sup>+++</sup> by Naim
-- Why nations fail<sup>+++</sup> by Acemoglu
-- The Rise of Carry<sup>+++</sup> by Lee
-- Crossing the Chasm<sup>+++</sup> by Moore
-- 1984<sup>+++</sup> by Orwell
+- Clean Code<sup>++</sup> by Robert Martin
+- The End of Power<sup>^^</sup> by Naim
+- Why nations fail<sup>^^</sup> by Acemoglu
+- The Rise of Carry<sup>^^</sup> by Lee
+- Crossing the Chasm<sup>^^</sup> by Moore
+- 1984<sup>^^</sup> by Orwell
 
-\+ Reading / ++ Not started / +++ Unfinished
+<sup>??</sup> Reading<br />
+<sup>++</sup> Not started<br />
+<sup>^^</sup> Unfinished<br />
