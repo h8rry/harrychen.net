@@ -33,7 +33,9 @@ permalink: /bookshelf
 - **Reality in Advertising** by Reeves
 - **Scientific Advertising** by Hopkins
 - **Customer Success** by Nick Mehta
+- **The Power Law** by Sebastian Mallaby
 - **The Little Book That Still Beats the Market** by Joel Greenblatt
+- **A history of the world in 6 glasses** by Tom Standage
 - **Tested Advertising Methods<sup>+</sup>** by John Caples
 - **Financial Reporting and Analysis (5th Edition)<sup>++</sup>** by Lawrence Revsine
 - **Security Analysis<sup>++</sup>** by Ben Graham
@@ -43,9 +45,10 @@ permalink: /bookshelf
   - You have keep forecasting and track your records. Revise and improve.
 - Unfree Speech by Joshua Wong
 - Permanent Record by Edward Snowden
+- Shoe Dog by Phil Knight
 - The Mathematics of Love by Hannah Fry
 - Thinking Fast and Slow
-- Don't Feed the Monkey Mind
+- Don't Feed the Monkey Mind by Jennifer Shannon
 - Zero to One by Peter Thiel
 - The Box by Marc Levinson
 - How to lie with statistics by Darrell Huff

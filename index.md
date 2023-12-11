@@ -7,10 +7,11 @@ title: bio
 permalink: /
 ---
 
-## co-founded
+## businesses
 
-- [Altcademy](https://www.altcademy.com): 100% online coding bootcamp
-- [BetterWriter.ai](https://betterwriter.ai): A chrome extension to help you write better
+- [Altcademy](https://www.altcademy.com): top online coding bootcamp that's 10x more affordable
+- [InputAI](https://www.inputai.com): the ultimate research tool for investors, lawyers, and consultants
+- BetterWriter.ai: A chrome extension to help you write better
 - EmailRefinery: Email marketing SaaS tool
 - Nvest: social network for stock recommendations
 
@@ -27,7 +28,7 @@ permalink: /
 - [ga.co](https://ga.co)
 - [bombardier.com](https://bombardier.com)
 
-## studied at
+## degrees
 
 - Master: Computer Science @ [GaTech](https://www.cc.gatech.edu/future/masters/mscs)
 - Bachelor: Mechanical Engineering @ [UofT](https://www.mie.utoronto.ca/)
