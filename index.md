@@ -16,13 +16,13 @@ permalink: /
 - Nvest: social network for stock recommendations
 
 
-## codes in
+## codes
 
 - Rails
 - Python
 - React
 
-## worked at
+## worked
 
 - [microsoft.com](https://microsoft.com)
 - [ga.co](https://ga.co)
