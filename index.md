@@ -10,7 +10,7 @@ permalink: /
 ## businesses
 
 - [Altcademy](https://www.altcademy.com): top online coding bootcamp that's 10x more affordable
-- [InputAI](https://www.inputai.com): the ultimate research tool for investors, lawyers, and consultants
+- [InputAI](https://www.inputai.com): exploring different AI application ideas
 - BetterWriter.ai: A chrome extension to help you write better
 - EmailRefinery: Email marketing SaaS tool
 - Nvest: social network for stock recommendations
